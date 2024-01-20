@@ -1,0 +1,14 @@
+C:\dev\dotnet\EstudoBase\Condicionais\bin\Debug\net8.0\Condicionais.exe
+C:\dev\dotnet\EstudoBase\Condicionais\bin\Debug\net8.0\Condicionais.deps.json
+C:\dev\dotnet\EstudoBase\Condicionais\bin\Debug\net8.0\Condicionais.runtimeconfig.json
+C:\dev\dotnet\EstudoBase\Condicionais\bin\Debug\net8.0\Condicionais.dll
+C:\dev\dotnet\EstudoBase\Condicionais\bin\Debug\net8.0\Condicionais.pdb
+C:\dev\dotnet\EstudoBase\Condicionais\obj\Debug\net8.0\Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dotnet\EstudoBase\Condicionais\obj\Debug\net8.0\Condicionais.AssemblyInfoInputs.cache
+C:\dev\dotnet\EstudoBase\Condicionais\obj\Debug\net8.0\Condicionais.AssemblyInfo.cs
+C:\dev\dotnet\EstudoBase\Condicionais\obj\Debug\net8.0\Condicionais.csproj.CoreCompileInputs.cache
+C:\dev\dotnet\EstudoBase\Condicionais\obj\Debug\net8.0\Condicionais.dll
+C:\dev\dotnet\EstudoBase\Condicionais\obj\Debug\net8.0\refint\Condicionais.dll
+C:\dev\dotnet\EstudoBase\Condicionais\obj\Debug\net8.0\Condicionais.pdb
+C:\dev\dotnet\EstudoBase\Condicionais\obj\Debug\net8.0\Condicionais.genruntimeconfig.cache
+C:\dev\dotnet\EstudoBase\Condicionais\obj\Debug\net8.0\ref\Condicionais.dll
