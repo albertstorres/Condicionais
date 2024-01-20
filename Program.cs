@@ -17,7 +17,24 @@ namespace Condicionais
             //FIM CONDICIONAIS IF E ELSE.
 
             //CONDICIONAIS SWITCH
+            int valor = 4;
+            string palavra = "Tranquilidade";
 
+            switch (valor) //FUNCIONA COM NÚMEROS
+            {
+                case 1: Console.WriteLine("1"); break;
+                case 2: Console.WriteLine("2"); break;
+                case 3: Console.WriteLine("3"); break;
+                default: Console.WriteLine("Nenhuma das opções."); break;
+            }
+
+            switch (palavra) //FUNCIONA COM TEXTOS
+            {
+                case "Palavra": Console.WriteLine("Palavra 1"); break;
+                case "Frase": Console.WriteLine("Frase 2"); break;
+                case "Paragrafo": Console.WriteLine("Paragrafo 3"); break;
+                default: Console.WriteLine("Nada bateu."); break;
+            }
             //FIM CONCIONAIS SWITCH
         }
     }
